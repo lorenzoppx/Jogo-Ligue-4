@@ -1,4 +1,5 @@
 # Jogo_Ligue_4
-Jogo ligue 4, desenvolvido em linguagem C/C++.  <br />
+Jogo ligue 4, desenvolvido em linguagem C.  <br />
+O arquivo está em .cpp pois possui o comando system(). <br />
 Versão BETA. <br />
 2016
